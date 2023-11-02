@@ -1,5 +1,5 @@
 # dcl-pixel-canvas-api
- Forked DCL pixel canvas with tetris cube structures elevators, and color picker following player.
+ Forked DCL pixel canvas, added tetris cube structures elevators, and color picker following the player.
  Needs game of life generative system to be implemented for more interesting interactions.
 
  - Canvas API needs collection to be made with *posX*, *posY* and *hexColor* fields
@@ -11,4 +11,7 @@ TODO:
 - game of life state and shape changes, and movement
 - on/off switch for color picker
 - additional colours selectable on second canvas
+- audio on game of life collisions of state changes
+- export of canvas
+- claim with POAP etc
   
